@@ -1,0 +1,40 @@
+.fin {
+	position: absolute;
+	background-color: purple;
+	font-family: 'Oi', cursive;
+	top: 2%;
+	font-size: 450%;
+	left:35%;
+	height:0%;
+	background-size: cover;
+}
+.fin1 {
+	position: absolute;
+	background-color: purple;
+	font-family: 'Coiny', cursive;
+	top: 295%;
+	font-size: 150%;
+	left:55%;
+	height:0%;
+	background-size: cover;
+}
+.fin2 {
+    position:absolute;
+    background-image: url(codigooo.png);
+	background-color: black;
+	top:20%;
+	left:2%;
+	height:120%;
+	width: 90%;
+	background-size: cover;
+}
+.fin3 {
+    position:absolute;
+    background-image: url(codigoo.png);
+	background-color: black;
+	top:105%;
+	left:0%;
+	height:120%;
+	width: 115%;
+	background-size: cover;
+}
